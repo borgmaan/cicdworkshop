@@ -1,6 +1,6 @@
 # CI/CD Workshop | R in Pharma 2022
 
-R in Pharma 2022 CI/CD workshop repository.
+R in Pharma 2022 CI/CD workshop repository -- 2022-11-04
 
 ## Exercises
 
